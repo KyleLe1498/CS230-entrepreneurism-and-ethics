@@ -1,29 +1,9 @@
-1: Company Summary:
-The goal of my company is to create closed AI systems for different companies and brands with more singular or smaller purposes. Specifically, this would target smaller businesses with 24/7 customer support, by teaching these systems the policies, and to be an available support for customers wherever and whenever, without the need of a customer service representative, often a difficult aspect of running a small business, that cannot compete with larger chains in having an effective or multiple area customer service aspect developed.
-The purpose of this business is to provide the ability for smaller businesses to be able to succeed at the online medium, and values being able to bring similar customer satisfaction to such small businesses as large businesses are able to provide, without the need for more expedited or larger scale profits. Main purposes would include being able to better track order information (issues that may cause delay on either customer or business’s end), handle return and refund issues, and in cases of more technical products, offer technical support or solutions for customers struggling with the products they purchase.
-2:ONE Objective and Key Result OKR:
+
 My OKR is to guarantee the anonymity of our users, and businesses remain, even if we are given the knowledge, but are unable to sell or market such data by making the data unable to be accessed by us developers, towards the other stakeholders, the individuals or businesses by us. For the individual side, I propose that in setting up the data per user in a system, that rather than organizing data of users by individuals, we are only privy to data that is given in demographic or overall statistics, like age or race, as a whole rather than seeing an individual’s name, and all aspects relating with that individual by itself. By doing this, our company can utilize the data and improve our system with our results, while preventing any ability to market or sell individual’s data or compromising customer’s privacy.
 For Business owners, I plan to have the machine learning algorithm learn to work with the business owner without us setting up the system ourselves, instead making it able to learn from whatever customer policies already exist, or data from prior customers to help shape it rather than us creating the system or feeding information to give the business owners the privacy they need to continue having their unique business designs or trade secrets.
 Of the three stakeholders, the customers and business owners are hardly related, with only us collecting anonymous data to help improve the system. The business owner and company are related in the traditional business sense, with the added middle man of the AI system, which hopefully will be viewed as an unbiased and impartial support, almost a tool. The business owner and company are related in the regard that business owners have the rational fear of us having access to their trade secrets and private details, that we will try to avoid having access or ability to figure out from data we collect for our business model’s improvement.
 3: Ethical Impact(s)/Issue(s). 
 Based on [1] stating that there are moral standards of right of privacy even if they aren’t strictly outlined. Examples stated in [2] stating the court must, “assur[e] preservation of that degree of privacy against government that existed when the Fourth Amendment was adopted”. This means that the expectation of the right to privacy even if in public, that they shouldn’t be tracked or be heavily scrutinized even if in public, the action of knowing an individual’s location or activities without their knowledge is a breach of privacy and therefore a violation of the Fourth Amendment. Likewise, to prevent our data collection from allowing us to make conclusions or make connections to finding trade secrets or personal details that we should not be privy or able to find out. To do this, I propose that we keep the data sent to us from the ML systems regarding the business aspect is first sent to the business owners as a stakeholder, before being sent to us three days later, with him being able to either tell us to filter out certain data, or the ML to remove certain data to be sent to us if he deems it to be invasive, personal or too revealing. To protect our customer stakeholders, we could make the data or information gained open source, and listed or accessible through either the business’s website or public means so people can be aware of how much anonymity is given as a member, and whether they feel compromised.
-
-Stakeholder
-Financial Risk
-Privacy Risk
-Conflicting Interest Risk
-Customer
-Low
-High
-Low 
-Company
-Mid
-Mid
-Mid
-Business Owners
-Mid
-High
-Mid 
 
 
 Customer Stakeholders: The financial risk depends on product to product per business, but as our company is to support small businesses, we expect there to be little to no financial risk to such customers when purchasing small or cheap items. As for privacy risks, it will be difficult to create a system where customers do not have to worry about their privacy factors from affecting them and being marketable or utilized for bad purposes. By having our data be open source, we may show our lack of knowing each individual, but by having the data open source, means that other people or companies can utilize that information for their own purposes, albeit being more vague information or non individual data. So we will have to accordingly prepare data in a way that decreases the exploitability of the data by listing or providing data in a vague or nonmarketable format. There is little or no conflicting interest as a customer, as primarily the interface for the business should only improve, and they have nothing gained or changed in their experience otherwise.
